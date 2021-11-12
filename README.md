@@ -1,4 +1,4 @@
-# vuepj2
+# Vue Mini Fast Hand Testing Game
 
 ## Project setup
 ```
